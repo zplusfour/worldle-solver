@@ -15,6 +15,8 @@ run
 $ node dist
 Today's answer is: {countryName}
 ```
+
+The website is coming soon! stay tuned
 ***
 
 # Made using TypeScript & Puppeteer 💖
